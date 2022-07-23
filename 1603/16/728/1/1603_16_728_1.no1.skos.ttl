@@ -1,7 +1,6 @@
 PREFIX owl: <http://www.w3.org/2002/07/owl#>
 PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
 PREFIX skos: <http://www.w3.org/2004/02/skos/core#>
-PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
 
 <urn:mdciii:1603:16:728()>
     a skos:Collection ;
@@ -20,7 +19,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:728:1:1" ;
     skos:prefLabel "Central Equatoria"@eng-Latn ;
-    wdata:q7200235 "SS01" ;
 .
 
 <urn:mdciii:1603:16()>
@@ -49,7 +47,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:728:1:10" ;
     skos:prefLabel "Western Equatoria"@eng-Latn ;
-    wdata:q7200235 "SS10" ;
 .
 
 <urn:mdciii:1603:16:728:1:2>
@@ -58,7 +55,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:728:1:2" ;
     skos:prefLabel "Eastern Equatoria"@eng-Latn ;
-    wdata:q7200235 "SS02" ;
 .
 
 <urn:mdciii:1603:16:728:1:3>
@@ -67,7 +63,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:728:1:3" ;
     skos:prefLabel "Jonglei"@eng-Latn ;
-    wdata:q7200235 "SS03" ;
 .
 
 <urn:mdciii:1603:16:728:1:4>
@@ -76,7 +71,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:728:1:4" ;
     skos:prefLabel "Lakes"@eng-Latn ;
-    wdata:q7200235 "SS04" ;
 .
 
 <urn:mdciii:1603:16:728:1:5>
@@ -85,7 +79,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:728:1:5" ;
     skos:prefLabel "Northern Bahr el Ghazal"@eng-Latn ;
-    wdata:q7200235 "SS05" ;
 .
 
 <urn:mdciii:1603:16:728:1:6>
@@ -94,7 +87,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:728:1:6" ;
     skos:prefLabel "Unity"@eng-Latn ;
-    wdata:q7200235 "SS06" ;
 .
 
 <urn:mdciii:1603:16:728:1:7>
@@ -103,7 +95,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:728:1:7" ;
     skos:prefLabel "Upper Nile"@eng-Latn ;
-    wdata:q7200235 "SS07" ;
 .
 
 <urn:mdciii:1603:16:728:1:8>
@@ -112,7 +103,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:728:1:8" ;
     skos:prefLabel "Warrap"@eng-Latn ;
-    wdata:q7200235 "SS08" ;
 .
 
 <urn:mdciii:1603:16:728:1:9>
@@ -121,6 +111,5 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:728:1:9" ;
     skos:prefLabel "Western Bahr el Ghazal"@eng-Latn ;
-    wdata:q7200235 "SS09" ;
 .
 

@@ -23,7 +23,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     rdfs:label "1603:16:728:1:1" ;
     obo:BFO_0000124 <urn:mcdiii:1603:16:728:0> ;
     skos:prefLabel "Central Equatoria"@eng-Latn ;
-    wdata:q7200235 "SS01" ;
+    wdata:Q7200235 "SS01" ;
 .
 
 <urn:mdciii:1603:16()>
@@ -54,7 +54,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     rdfs:label "1603:16:728:1:10" ;
     obo:BFO_0000124 <urn:mcdiii:1603:16:728:0> ;
     skos:prefLabel "Western Equatoria"@eng-Latn ;
-    wdata:q7200235 "SS10" ;
+    wdata:Q7200235 "SS10" ;
 .
 
 <urn:mdciii:1603:16:728:1:2>
@@ -65,7 +65,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     rdfs:label "1603:16:728:1:2" ;
     obo:BFO_0000124 <urn:mcdiii:1603:16:728:0> ;
     skos:prefLabel "Eastern Equatoria"@eng-Latn ;
-    wdata:q7200235 "SS02" ;
+    wdata:Q7200235 "SS02" ;
 .
 
 <urn:mdciii:1603:16:728:1:3>
@@ -76,7 +76,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     rdfs:label "1603:16:728:1:3" ;
     obo:BFO_0000124 <urn:mcdiii:1603:16:728:0> ;
     skos:prefLabel "Jonglei"@eng-Latn ;
-    wdata:q7200235 "SS03" ;
+    wdata:Q7200235 "SS03" ;
 .
 
 <urn:mdciii:1603:16:728:1:4>
@@ -87,7 +87,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     rdfs:label "1603:16:728:1:4" ;
     obo:BFO_0000124 <urn:mcdiii:1603:16:728:0> ;
     skos:prefLabel "Lakes"@eng-Latn ;
-    wdata:q7200235 "SS04" ;
+    wdata:Q7200235 "SS04" ;
 .
 
 <urn:mdciii:1603:16:728:1:5>
@@ -98,7 +98,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     rdfs:label "1603:16:728:1:5" ;
     obo:BFO_0000124 <urn:mcdiii:1603:16:728:0> ;
     skos:prefLabel "Northern Bahr el Ghazal"@eng-Latn ;
-    wdata:q7200235 "SS05" ;
+    wdata:Q7200235 "SS05" ;
 .
 
 <urn:mdciii:1603:16:728:1:6>
@@ -109,7 +109,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     rdfs:label "1603:16:728:1:6" ;
     obo:BFO_0000124 <urn:mcdiii:1603:16:728:0> ;
     skos:prefLabel "Unity"@eng-Latn ;
-    wdata:q7200235 "SS06" ;
+    wdata:Q7200235 "SS06" ;
 .
 
 <urn:mdciii:1603:16:728:1:7>
@@ -120,7 +120,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     rdfs:label "1603:16:728:1:7" ;
     obo:BFO_0000124 <urn:mcdiii:1603:16:728:0> ;
     skos:prefLabel "Upper Nile"@eng-Latn ;
-    wdata:q7200235 "SS07" ;
+    wdata:Q7200235 "SS07" ;
 .
 
 <urn:mdciii:1603:16:728:1:8>
@@ -131,7 +131,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     rdfs:label "1603:16:728:1:8" ;
     obo:BFO_0000124 <urn:mcdiii:1603:16:728:0> ;
     skos:prefLabel "Warrap"@eng-Latn ;
-    wdata:q7200235 "SS08" ;
+    wdata:Q7200235 "SS08" ;
 .
 
 <urn:mdciii:1603:16:728:1:9>
@@ -142,6 +142,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     rdfs:label "1603:16:728:1:9" ;
     obo:BFO_0000124 <urn:mcdiii:1603:16:728:0> ;
     skos:prefLabel "Western Bahr el Ghazal"@eng-Latn ;
-    wdata:q7200235 "SS09" ;
+    wdata:Q7200235 "SS09" ;
 .
 
